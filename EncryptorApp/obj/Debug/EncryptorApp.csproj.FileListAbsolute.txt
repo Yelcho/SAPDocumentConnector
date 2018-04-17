@@ -1,0 +1,12 @@
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\bin\Debug\EncryptorApp.exe.config
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\bin\Debug\EncryptorApp.exe
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\bin\Debug\EncryptorApp.pdb
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\bin\Debug\EncryptorLib.dll
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\bin\Debug\EncryptorLib.pdb
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\obj\Debug\EncryptorApp.csprojResolveAssemblyReference.cache
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\obj\Debug\EncryptorApp.Properties.Resources.resources
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\obj\Debug\EncryptorApp.csproj.GenerateResource.cache
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\obj\Debug\EncryptorApp.csproj.CoreCompileInputs.cache
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\obj\Debug\EncryptorApp.csproj.CopyComplete
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\obj\Debug\EncryptorApp.exe
+C:\Users\grobinson\source\repos\SAPDocumentConnector\EncryptorApp\obj\Debug\EncryptorApp.pdb
