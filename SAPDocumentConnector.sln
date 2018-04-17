@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPDocumentConnector", "SAPDocumentConnector\SAPDocumentConnector.csproj", "{721000F5-1A08-4E41-A594-94D7BB6F852C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FBC0CFD4-E07D-4E27-91FE-0755DC008E49} = {FBC0CFD4-E07D-4E27-91FE-0755DC008E49}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptorApp", "EncryptorApp\EncryptorApp.csproj", "{81586C8F-5E7F-4208-9BD7-5328B1ABD1DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptorLib", "EncryptorLib\EncryptorLib.csproj", "{FBC0CFD4-E07D-4E27-91FE-0755DC008E49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{43F9FA53-BA64-4FF1-8296-B9B8CE5BAD55}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{721000F5-1A08-4E41-A594-94D7BB6F852C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721000F5-1A08-4E41-A594-94D7BB6F852C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721000F5-1A08-4E41-A594-94D7BB6F852C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721000F5-1A08-4E41-A594-94D7BB6F852C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81586C8F-5E7F-4208-9BD7-5328B1ABD1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81586C8F-5E7F-4208-9BD7-5328B1ABD1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81586C8F-5E7F-4208-9BD7-5328B1ABD1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81586C8F-5E7F-4208-9BD7-5328B1ABD1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC0CFD4-E07D-4E27-91FE-0755DC008E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC0CFD4-E07D-4E27-91FE-0755DC008E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC0CFD4-E07D-4E27-91FE-0755DC008E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC0CFD4-E07D-4E27-91FE-0755DC008E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

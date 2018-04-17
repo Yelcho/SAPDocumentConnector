@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application
+			type="server-application"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:noNamespaceSchemaLocation="http://www.m-files.com/schemas/appdef-server-v1.xsd">
+  <guid>1cfd9ee9-685c-4007-81b8-aba9fb8dc0a3</guid>
+  <name>SAPDocumentConnector</name>
+  <description>SAPDocumentConnector</description>
+  <publisher></publisher>
+  <version>1.1.7.1</version>
+  <copyright>M-Files and Yelcho</copyright>
+  <extension-objects>
+    <extension-object>
+      <name>SAPDocumentConnector</name>
+      <assembly>SAPDocumentConnector.dll</assembly>
+      <class>SAPDocumentConnector.VaultApplication</class>
+      <installation-method>Install</installation-method>
+      <uninstallation-method>Uninstall</uninstallation-method>
+      <initialization-method>Initialize</initialization-method>
+      <uninitialization-method>Uninitialize</uninitialization-method>
+      <start-operations-method>StartOperations</start-operations-method>
+    </extension-object>
+  </extension-objects>
+</application>

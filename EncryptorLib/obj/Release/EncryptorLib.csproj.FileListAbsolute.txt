@@ -1,0 +1,6 @@
+H:\M-Files\SAPDocumentConnector\EncryptorLib\bin\Release\EncryptorLib.dll
+H:\M-Files\SAPDocumentConnector\EncryptorLib\bin\Release\EncryptorLib.pdb
+H:\M-Files\SAPDocumentConnector\EncryptorLib\obj\Release\EncryptorLib.csprojResolveAssemblyReference.cache
+H:\M-Files\SAPDocumentConnector\EncryptorLib\obj\Release\EncryptorLib.csproj.CoreCompileInputs.cache
+H:\M-Files\SAPDocumentConnector\EncryptorLib\obj\Release\EncryptorLib.dll
+H:\M-Files\SAPDocumentConnector\EncryptorLib\obj\Release\EncryptorLib.pdb

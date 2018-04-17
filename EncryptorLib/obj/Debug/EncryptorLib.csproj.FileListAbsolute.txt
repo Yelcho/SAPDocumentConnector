@@ -1,0 +1,6 @@
+C:\Users\grobinson\Source\Repos\SAPDocumentConnector\EncryptorLib\bin\Debug\EncryptorLib.dll
+C:\Users\grobinson\Source\Repos\SAPDocumentConnector\EncryptorLib\bin\Debug\EncryptorLib.pdb
+C:\Users\grobinson\Source\Repos\SAPDocumentConnector\EncryptorLib\obj\Debug\EncryptorLib.csprojResolveAssemblyReference.cache
+C:\Users\grobinson\Source\Repos\SAPDocumentConnector\EncryptorLib\obj\Debug\EncryptorLib.csproj.CoreCompileInputs.cache
+C:\Users\grobinson\Source\Repos\SAPDocumentConnector\EncryptorLib\obj\Debug\EncryptorLib.dll
+C:\Users\grobinson\Source\Repos\SAPDocumentConnector\EncryptorLib\obj\Debug\EncryptorLib.pdb
